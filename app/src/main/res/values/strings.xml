@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="click_me">click me</string>
+    <string name="help_is_on_the_way">help_is_on_the_way</string>
+    <string name="help_is_on_way">help is on way</string>
 </resources>
